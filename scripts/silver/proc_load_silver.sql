@@ -1,7 +1,7 @@
 /*
-=========================================================================================
+===================================================
 Silver Layer Stored Procedure (Data Transformation)
-=========================================================================================
+===================================================
 Purpose of Script:
   The purpose of this script is to take the ingested data from the bronze layer tables, transform
   and clean the data, and then truncate the silver tables and insert the new, clean data.
